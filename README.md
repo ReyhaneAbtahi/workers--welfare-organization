@@ -9,4 +9,5 @@ visual studio IDE
 open a visual studio project and copy "code.c" content into it's source file  
 copy the "data" file contents to the project path and execute the program 
 # Remark
-in this program i use my voice to explain the menus for users. voices are in persian but you can record your voice in your own language and replace it with voice files in "data" file
+in this program i use my voice to explain the menus for users. voices are in persian but you can record your voice in your own language and replace it with voice files in "data" file  
+@elnazrahmati
