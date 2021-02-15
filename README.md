@@ -1,4 +1,4 @@
-# Workers--welfare-organization
+# Workers-welfare-organization
 A system for the workers' welfare organization  
 # What Does It Do?  
 manage workers' information and compute their monthly salary
